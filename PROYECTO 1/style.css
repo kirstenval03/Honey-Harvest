@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    text-align: center;
+    background: url(./images/startScreen.png) 0 0 no-repeat;
+    background-size: cover;
+  }
+
+  .game-intro{
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 15%;
+    
+  }
+  
+  #inital-text {
+    font-size: 20px;
+    font-family:cursive;
+    background-color: #dc8344;
+    color: #fff;
+    padding: 20px 10px;
+    border: 0;
+    box-shadow: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  #start-button {
+    top: 50%;
+    font-size: 20px;
+    font-family: cursive;
+    background-color: #864122df;
+    padding: 20px 40px;
+    border: 0;
+    box-shadow: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  a {
+    text-decoration:none;
+    color: #fff;
+  }
+
